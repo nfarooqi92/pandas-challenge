@@ -1,10 +1,12 @@
-# pandas-challenge
+Pandas Homework - Pandas, Pandas, Pandas
+
 Background
 
 The data dive continues!
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete one of two (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
 Before You Begin
+
 
 Create a new repository for this project called pandas-challenge. Do not add this homework to an existing repository.
 
@@ -115,3 +117,15 @@ You must use the Pandas Library and the Jupyter Notebook.
 You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 You must include a written description of three observable trends based on the data.
 See Example Solution for a reference on expected format.
+
+
+
+Hints and Considerations
+
+
+These are challenging activities for a number of reasons. For one, these activities will require you to analyze thousands of records. Hacking through the data to look for obvious trends in Excel is just not a feasible option. The size of the data may seem daunting, but pandas will allow you to efficiently parse through it.
+
+
+Second, these activities will also challenge you by requiring you to learn on your feet. Don't fool yourself into thinking: "I need to study pandas more closely before diving in." Get the basic gist of the library and then immediately get to work. When facing a daunting task, it's easy to think: "I'm just not ready to tackle it yet." But that's the surest way to never succeed. Learning to program requires one to constantly tinker, experiment, and learn on the fly. You are doing exactly the right thing, if you find yourself constantly practicing Google-Fu and diving into documentation. There is just no way (or reason) to try and memorize it all. Online references are available for you to use when you need them. So use them!
+
+
